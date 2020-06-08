@@ -47,9 +47,9 @@ namespace Labeling
                 gCap.FrameWidth = 1280;
                 gCap.FrameHeight = 1024;
 
-                if (gCap.IsOpened() == false) return;
+                if (!gCap.IsOpened()) return;
 
-                timCam.Interval = 120;   //초당 30프레임 설정
+                timCam.Interval = 33;   //초당 30프레임 설정
                 timCam.Enabled = true;
             }
             else
@@ -192,7 +192,16 @@ namespace Labeling
 
         private void btnEdge_Click(object sender, EventArgs e)
         {
+            if (picGray.Image == null) return;
 
+            // picGray의 Image를 추출하여 matGray에 저장
+            Bitmap bmp = picGray.Image as Bitmap;
+            Mat matGray = BitmapConverter.ToMat(bmp);
+
+            // (OpenCV 함수를 이용하여) Canny Edge 영상 얻기
+            int threshold = hscThreshold.Value;
+            Mat matEdge = matGray.Canny(threshold, 255);
+            picResult.Image = matEdge.ToBitmap();
         }
 
         private void radOtus_CheckedChanged(object sender, EventArgs e)
