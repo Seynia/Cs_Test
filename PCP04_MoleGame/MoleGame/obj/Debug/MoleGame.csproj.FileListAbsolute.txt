@@ -1,0 +1,10 @@
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\MoleGame\MoleGame\bin\Debug\MoleGame.exe.config
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\MoleGame\MoleGame\bin\Debug\MoleGame.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\MoleGame\MoleGame\bin\Debug\MoleGame.pdb
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\MoleGame\MoleGame\obj\Debug\MoleGame.csprojAssemblyReference.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\MoleGame\MoleGame\obj\Debug\MoleGame.Form1.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\MoleGame\MoleGame\obj\Debug\MoleGame.Properties.Resources.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\MoleGame\MoleGame\obj\Debug\MoleGame.csproj.GenerateResource.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\MoleGame\MoleGame\obj\Debug\MoleGame.csproj.CoreCompileInputs.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\MoleGame\MoleGame\obj\Debug\MoleGame.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\MoleGame\MoleGame\obj\Debug\MoleGame.pdb

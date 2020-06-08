@@ -1,0 +1,10 @@
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP_Polling\Polling\bin\Debug\Polling.exe.config
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP_Polling\Polling\bin\Debug\Polling.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP_Polling\Polling\bin\Debug\Polling.pdb
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP_Polling\Polling\obj\Debug\Polling.csprojAssemblyReference.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP_Polling\Polling\obj\Debug\Polling.Form1.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP_Polling\Polling\obj\Debug\Polling.Properties.Resources.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP_Polling\Polling\obj\Debug\Polling.csproj.GenerateResource.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP_Polling\Polling\obj\Debug\Polling.csproj.CoreCompileInputs.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP_Polling\Polling\obj\Debug\Polling.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP_Polling\Polling\obj\Debug\Polling.pdb

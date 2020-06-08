@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatchMe", "CatchMe\CatchMe.csproj", "{CB7F2644-9928-49E6-83E4-855A7439AE6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB7F2644-9928-49E6-83E4-855A7439AE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB7F2644-9928-49E6-83E4-855A7439AE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB7F2644-9928-49E6-83E4-855A7439AE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB7F2644-9928-49E6-83E4-855A7439AE6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7F85064-D464-426C-AABC-6EBC9BEEA4BE}
+	EndGlobalSection
+EndGlobal

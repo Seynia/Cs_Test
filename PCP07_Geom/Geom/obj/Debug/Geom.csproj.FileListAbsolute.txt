@@ -1,0 +1,10 @@
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Geom\Geom\bin\Debug\Geom.exe.config
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Geom\Geom\bin\Debug\Geom.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Geom\Geom\bin\Debug\Geom.pdb
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Geom\Geom\obj\Debug\Geom.csprojAssemblyReference.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Geom\Geom\obj\Debug\Geom.Form1.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Geom\Geom\obj\Debug\Geom.Properties.Resources.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Geom\Geom\obj\Debug\Geom.csproj.GenerateResource.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Geom\Geom\obj\Debug\Geom.csproj.CoreCompileInputs.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Geom\Geom\obj\Debug\Geom.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Geom\Geom\obj\Debug\Geom.pdb

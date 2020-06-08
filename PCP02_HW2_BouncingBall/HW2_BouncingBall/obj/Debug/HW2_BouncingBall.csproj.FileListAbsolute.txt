@@ -1,0 +1,10 @@
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\HW2_BouncingBall\HW2_BouncingBall\bin\Debug\HW2_BouncingBall.exe.config
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\HW2_BouncingBall\HW2_BouncingBall\bin\Debug\HW2_BouncingBall.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\HW2_BouncingBall\HW2_BouncingBall\bin\Debug\HW2_BouncingBall.pdb
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\HW2_BouncingBall\HW2_BouncingBall\obj\Debug\HW2_BouncingBall.csprojAssemblyReference.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\HW2_BouncingBall\HW2_BouncingBall\obj\Debug\HW2_BouncingBall.Form1.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\HW2_BouncingBall\HW2_BouncingBall\obj\Debug\HW2_BouncingBall.Properties.Resources.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\HW2_BouncingBall\HW2_BouncingBall\obj\Debug\HW2_BouncingBall.csproj.GenerateResource.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\HW2_BouncingBall\HW2_BouncingBall\obj\Debug\HW2_BouncingBall.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\HW2_BouncingBall\HW2_BouncingBall\obj\Debug\HW2_BouncingBall.pdb
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\HW2_BouncingBall\HW2_BouncingBall\obj\Debug\HW2_BouncingBall.csproj.CoreCompileInputs.cache

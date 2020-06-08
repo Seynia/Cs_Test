@@ -1,0 +1,10 @@
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\LeastSquare2\LeastSquare2\obj\Debug\LeastSquare2.csprojAssemblyReference.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\LeastSquare2\LeastSquare2\obj\Debug\LeastSquare2.Form1.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\LeastSquare2\LeastSquare2\obj\Debug\LeastSquare2.Properties.Resources.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\LeastSquare2\LeastSquare2\obj\Debug\LeastSquare2.csproj.GenerateResource.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\LeastSquare2\LeastSquare2\obj\Debug\LeastSquare2.csproj.CoreCompileInputs.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\LeastSquare2\LeastSquare2\bin\Debug\LeastSquare2.exe.config
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\LeastSquare2\LeastSquare2\bin\Debug\LeastSquare2.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\LeastSquare2\LeastSquare2\bin\Debug\LeastSquare2.pdb
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\LeastSquare2\LeastSquare2\obj\Debug\LeastSquare2.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\LeastSquare2\LeastSquare2\obj\Debug\LeastSquare2.pdb

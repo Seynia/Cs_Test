@@ -1,0 +1,10 @@
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Cs_Test (WFA)\Cs_Test (WFA)\bin\Debug\Cs_Test (WFA).exe.config
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Cs_Test (WFA)\Cs_Test (WFA)\bin\Debug\Cs_Test (WFA).exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Cs_Test (WFA)\Cs_Test (WFA)\bin\Debug\Cs_Test (WFA).pdb
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Cs_Test (WFA)\Cs_Test (WFA)\obj\Debug\Cs_Test (WFA).csprojAssemblyReference.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Cs_Test (WFA)\Cs_Test (WFA)\obj\Debug\Cs_Test__WFA_.Form1.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Cs_Test (WFA)\Cs_Test (WFA)\obj\Debug\Cs_Test__WFA_.Properties.Resources.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Cs_Test (WFA)\Cs_Test (WFA)\obj\Debug\Cs_Test (WFA).csproj.GenerateResource.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Cs_Test (WFA)\Cs_Test (WFA)\obj\Debug\Cs_Test (WFA).csproj.CoreCompileInputs.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Cs_Test (WFA)\Cs_Test (WFA)\obj\Debug\Cs_Test (WFA).exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Cs_Test (WFA)\Cs_Test (WFA)\obj\Debug\Cs_Test (WFA).pdb

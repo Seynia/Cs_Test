@@ -1,0 +1,10 @@
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP_TalkOnly\TalkOnly\bin\Debug\TalkOnly.exe.config
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP_TalkOnly\TalkOnly\bin\Debug\TalkOnly.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP_TalkOnly\TalkOnly\bin\Debug\TalkOnly.pdb
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP_TalkOnly\TalkOnly\obj\Debug\TalkOnly.csprojAssemblyReference.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP_TalkOnly\TalkOnly\obj\Debug\TalkOnly.Form1.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP_TalkOnly\TalkOnly\obj\Debug\TalkOnly.Properties.Resources.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP_TalkOnly\TalkOnly\obj\Debug\TalkOnly.csproj.GenerateResource.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP_TalkOnly\TalkOnly\obj\Debug\TalkOnly.csproj.CoreCompileInputs.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP_TalkOnly\TalkOnly\obj\Debug\TalkOnly.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP_TalkOnly\TalkOnly\obj\Debug\TalkOnly.pdb

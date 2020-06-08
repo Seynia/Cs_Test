@@ -1,0 +1,10 @@
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Human\Human\bin\Debug\Human.exe.config
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Human\Human\bin\Debug\Human.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Human\Human\bin\Debug\Human.pdb
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Human\Human\obj\Debug\Human.csprojAssemblyReference.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Human\Human\obj\Debug\Human.Properties.Resources.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Human\Human\obj\Debug\Human.csproj.GenerateResource.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Human\Human\obj\Debug\Human.csproj.CoreCompileInputs.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Human\Human\obj\Debug\Human.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Human\Human\obj\Debug\Human.pdb
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Human\Human\obj\Debug\Human.Form1.resources

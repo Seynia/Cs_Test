@@ -1,0 +1,10 @@
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\11_CP_Circles\Circles\bin\Debug\Circles.exe.config
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\11_CP_Circles\Circles\bin\Debug\Circles.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\11_CP_Circles\Circles\bin\Debug\Circles.pdb
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\11_CP_Circles\Circles\obj\Debug\Circles.csprojAssemblyReference.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\11_CP_Circles\Circles\obj\Debug\Circles.Form1.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\11_CP_Circles\Circles\obj\Debug\Circles.Properties.Resources.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\11_CP_Circles\Circles\obj\Debug\Circles.csproj.GenerateResource.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\11_CP_Circles\Circles\obj\Debug\Circles.csproj.CoreCompileInputs.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\11_CP_Circles\Circles\obj\Debug\Circles.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\11_CP_Circles\Circles\obj\Debug\Circles.pdb

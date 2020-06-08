@@ -1,0 +1,10 @@
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\MapOfKorea\MapOfKorea\bin\Debug\MapOfKorea.exe.config
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\MapOfKorea\MapOfKorea\bin\Debug\MapOfKorea.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\MapOfKorea\MapOfKorea\bin\Debug\MapOfKorea.pdb
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\MapOfKorea\MapOfKorea\obj\Debug\MapOfKorea.csprojAssemblyReference.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\MapOfKorea\MapOfKorea\obj\Debug\MapOfKorea.Form1.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\MapOfKorea\MapOfKorea\obj\Debug\MapOfKorea.Properties.Resources.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\MapOfKorea\MapOfKorea\obj\Debug\MapOfKorea.csproj.GenerateResource.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\MapOfKorea\MapOfKorea\obj\Debug\MapOfKorea.csproj.CoreCompileInputs.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\MapOfKorea\MapOfKorea\obj\Debug\MapOfKorea.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\MapOfKorea\MapOfKorea\obj\Debug\MapOfKorea.pdb

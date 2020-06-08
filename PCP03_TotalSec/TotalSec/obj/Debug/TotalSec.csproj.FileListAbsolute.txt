@@ -1,0 +1,9 @@
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\TotalSec\TotalSec\bin\Debug\TotalSec.exe.config
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\TotalSec\TotalSec\bin\Debug\TotalSec.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\TotalSec\TotalSec\bin\Debug\TotalSec.pdb
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\TotalSec\TotalSec\obj\Debug\TotalSec.Form1.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\TotalSec\TotalSec\obj\Debug\TotalSec.Properties.Resources.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\TotalSec\TotalSec\obj\Debug\TotalSec.csproj.GenerateResource.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\TotalSec\TotalSec\obj\Debug\TotalSec.csproj.CoreCompileInputs.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\TotalSec\TotalSec\obj\Debug\TotalSec.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\TotalSec\TotalSec\obj\Debug\TotalSec.pdb

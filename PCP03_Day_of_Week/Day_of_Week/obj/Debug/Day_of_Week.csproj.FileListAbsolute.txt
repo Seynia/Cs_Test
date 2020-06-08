@@ -1,0 +1,10 @@
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Day_of_Week\Day_of_Week\bin\Debug\Day_of_Week.exe.config
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Day_of_Week\Day_of_Week\bin\Debug\Day_of_Week.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Day_of_Week\Day_of_Week\bin\Debug\Day_of_Week.pdb
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Day_of_Week\Day_of_Week\obj\Debug\Day_of_Week.csprojAssemblyReference.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Day_of_Week\Day_of_Week\obj\Debug\Day_of_Week.Form1.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Day_of_Week\Day_of_Week\obj\Debug\Day_of_Week.Properties.Resources.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Day_of_Week\Day_of_Week\obj\Debug\Day_of_Week.csproj.GenerateResource.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Day_of_Week\Day_of_Week\obj\Debug\Day_of_Week.csproj.CoreCompileInputs.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Day_of_Week\Day_of_Week\obj\Debug\Day_of_Week.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Day_of_Week\Day_of_Week\obj\Debug\Day_of_Week.pdb

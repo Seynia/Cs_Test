@@ -1,0 +1,30 @@
+C:\Users\KSH\Desktop\PhotoMagic\PhotoMagic\bin\Debug\PhotoMagic.exe.config
+C:\Users\KSH\Desktop\PhotoMagic\PhotoMagic\bin\Debug\PhotoMagic.exe
+C:\Users\KSH\Desktop\PhotoMagic\PhotoMagic\bin\Debug\PhotoMagic.pdb
+C:\Users\KSH\Desktop\PhotoMagic\PhotoMagic\obj\Debug\PhotoMagic.csprojAssemblyReference.cache
+C:\Users\KSH\Desktop\PhotoMagic\PhotoMagic\obj\Debug\PhotoMagic.Form1.resources
+C:\Users\KSH\Desktop\PhotoMagic\PhotoMagic\obj\Debug\PhotoMagic.Properties.Resources.resources
+C:\Users\KSH\Desktop\PhotoMagic\PhotoMagic\obj\Debug\PhotoMagic.csproj.GenerateResource.cache
+C:\Users\KSH\Desktop\PhotoMagic\PhotoMagic\obj\Debug\PhotoMagic.csproj.CoreCompileInputs.cache
+C:\Users\KSH\Desktop\PhotoMagic\PhotoMagic\obj\Debug\PhotoMagic.exe
+C:\Users\KSH\Desktop\PhotoMagic\PhotoMagic\obj\Debug\PhotoMagic.pdb
+C:\Users\KSH\Desktop\PhotoMagic_배포\PhotoMagic\obj\Debug\PhotoMagic.csprojAssemblyReference.cache
+C:\Users\KSH\Desktop\PhotoMagic_배포\PhotoMagic\obj\Debug\PhotoMagic.Form1.resources
+C:\Users\KSH\Desktop\PhotoMagic_배포\PhotoMagic\obj\Debug\PhotoMagic.Properties.Resources.resources
+C:\Users\KSH\Desktop\PhotoMagic_배포\PhotoMagic\obj\Debug\PhotoMagic.csproj.GenerateResource.cache
+C:\Users\KSH\Desktop\PhotoMagic_배포\PhotoMagic\obj\Debug\PhotoMagic.csproj.CoreCompileInputs.cache
+C:\Users\KSH\Desktop\PhotoMagic_배포\PhotoMagic\obj\Debug\PhotoMagic.exe
+C:\Users\KSH\Desktop\PhotoMagic_배포\PhotoMagic\obj\Debug\PhotoMagic.pdb
+C:\Users\KSH\Desktop\PhotoMagic_배포\PhotoMagic\bin\Debug\PhotoMagic.exe.config
+C:\Users\KSH\Desktop\PhotoMagic_배포\PhotoMagic\bin\Debug\PhotoMagic.exe
+C:\Users\KSH\Desktop\PhotoMagic_배포\PhotoMagic\bin\Debug\PhotoMagic.pdb
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PhotoMagic\PhotoMagic\bin\Debug\PhotoMagic.exe.config
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PhotoMagic\PhotoMagic\bin\Debug\PhotoMagic.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PhotoMagic\PhotoMagic\bin\Debug\PhotoMagic.pdb
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PhotoMagic\PhotoMagic\obj\Debug\PhotoMagic.csprojAssemblyReference.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PhotoMagic\PhotoMagic\obj\Debug\PhotoMagic.Form1.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PhotoMagic\PhotoMagic\obj\Debug\PhotoMagic.Properties.Resources.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PhotoMagic\PhotoMagic\obj\Debug\PhotoMagic.csproj.GenerateResource.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PhotoMagic\PhotoMagic\obj\Debug\PhotoMagic.csproj.CoreCompileInputs.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PhotoMagic\PhotoMagic\obj\Debug\PhotoMagic.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PhotoMagic\PhotoMagic\obj\Debug\PhotoMagic.pdb

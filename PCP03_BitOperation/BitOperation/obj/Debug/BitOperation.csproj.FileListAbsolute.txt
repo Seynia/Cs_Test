@@ -1,0 +1,10 @@
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\BitOperation\BitOperation\bin\Debug\BitOperation.exe.config
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\BitOperation\BitOperation\bin\Debug\BitOperation.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\BitOperation\BitOperation\bin\Debug\BitOperation.pdb
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\BitOperation\BitOperation\obj\Debug\BitOperation.csprojAssemblyReference.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\BitOperation\BitOperation\obj\Debug\BitOperation.Form1.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\BitOperation\BitOperation\obj\Debug\BitOperation.Properties.Resources.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\BitOperation\BitOperation\obj\Debug\BitOperation.csproj.GenerateResource.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\BitOperation\BitOperation\obj\Debug\BitOperation.csproj.CoreCompileInputs.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\BitOperation\BitOperation\obj\Debug\BitOperation.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\BitOperation\BitOperation\obj\Debug\BitOperation.pdb

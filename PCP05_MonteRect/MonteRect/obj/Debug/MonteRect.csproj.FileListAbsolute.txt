@@ -1,0 +1,9 @@
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\MonteRect\MonteRect\bin\Debug\MonteRect.exe.config
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\MonteRect\MonteRect\bin\Debug\MonteRect.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\MonteRect\MonteRect\bin\Debug\MonteRect.pdb
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\MonteRect\MonteRect\obj\Debug\MonteRect.Form1.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\MonteRect\MonteRect\obj\Debug\MonteRect.Properties.Resources.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\MonteRect\MonteRect\obj\Debug\MonteRect.csproj.GenerateResource.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\MonteRect\MonteRect\obj\Debug\MonteRect.csproj.CoreCompileInputs.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\MonteRect\MonteRect\obj\Debug\MonteRect.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\MonteRect\MonteRect\obj\Debug\MonteRect.pdb

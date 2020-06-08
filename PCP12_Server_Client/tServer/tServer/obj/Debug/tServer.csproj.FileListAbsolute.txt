@@ -1,0 +1,10 @@
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP12_Server_Client\tServer\tServer\obj\Debug\tServer.csprojAssemblyReference.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP12_Server_Client\tServer\tServer\obj\Debug\tServer.Form1.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP12_Server_Client\tServer\tServer\obj\Debug\tServer.Properties.Resources.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP12_Server_Client\tServer\tServer\obj\Debug\tServer.csproj.GenerateResource.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP12_Server_Client\tServer\tServer\obj\Debug\tServer.csproj.CoreCompileInputs.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP12_Server_Client\tServer\tServer\bin\Debug\tServer.exe.config
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP12_Server_Client\tServer\tServer\bin\Debug\tServer.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP12_Server_Client\tServer\tServer\bin\Debug\tServer.pdb
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP12_Server_Client\tServer\tServer\obj\Debug\tServer.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP12_Server_Client\tServer\tServer\obj\Debug\tServer.pdb

@@ -1,0 +1,9 @@
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Cs_Project\bin\Debug\Cs_Project.exe.config
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Cs_Project\bin\Debug\Cs_Project.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Cs_Project\bin\Debug\Cs_Project.pdb
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Cs_Project\obj\Debug\Cs_Project.csprojAssemblyReference.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Cs_Project\obj\Debug\Cs_Project.Form1.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Cs_Project\obj\Debug\Cs_Project.Properties.Resources.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Cs_Project\obj\Debug\Cs_Project.csproj.GenerateResource.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Cs_Project\obj\Debug\Cs_Project.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\Cs_Project\obj\Debug\Cs_Project.pdb
