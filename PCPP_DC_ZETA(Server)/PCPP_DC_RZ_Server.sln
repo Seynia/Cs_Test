@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCPP_DC_RZ_Server", "PCPP_DC_RZ_Server\PCPP_DC_RZ_Server.csproj", "{4D20FE5D-9633-4C32-B9E6-629F1402F113}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D20FE5D-9633-4C32-B9E6-629F1402F113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D20FE5D-9633-4C32-B9E6-629F1402F113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D20FE5D-9633-4C32-B9E6-629F1402F113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D20FE5D-9633-4C32-B9E6-629F1402F113}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC511AD0-297D-43F4-8DEA-214DDF919815}
+	EndGlobalSection
+EndGlobal

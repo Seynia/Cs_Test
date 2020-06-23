@@ -19,11 +19,16 @@ namespace Cs_Test__WFA_
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            int[] tt = new int[] { 1, 4, 6, 2, 8, 5 };
-            foreach (int a in tt)
-            {
-                Console.WriteLine(a);
-            }
+            string[] st = new string[5];
+            st[0] = "33";
+            st[1] = "22";
+            st[2] = "24";
+            st[3] = "25";
+            st[4] = "66";
+            double sum = 0;
+            double[] dd = Array.ConvertAll(st, double.Parse);
+            for (int i = 0; i < 5; i++) sum += dd[i];
+            Console.WriteLine(sum);
         }
     }
 }
