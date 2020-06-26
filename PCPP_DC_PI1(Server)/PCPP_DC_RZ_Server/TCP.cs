@@ -1,27 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Net;
 using System.Net.Sockets;
 using System.Threading;
-using System.Runtime.InteropServices;
 
-[StructLayout(LayoutKind.Explicit)]
-public struct TBytes
-{
-    [FieldOffset(0)]
-    public uint data;
-    [FieldOffset(0)]
-    public byte byte0;
-    [FieldOffset(1)]
-    public byte byte1;
-    [FieldOffset(2)]
-    public byte byte2;
-    [FieldOffset(3)]
-    public byte byte3;
-}
 enum csConnStatus
 {
     Closed,
@@ -30,16 +12,64 @@ enum csConnStatus
     Connected
 };
 
+
+static class Util
+{
+    public static double Tsec(DateTime sTime)
+    {
+        return DateTime.Now.Subtract(sTime).Ticks / 1e7;
+    }
+
+    // CheckSum을 계산하여 데이터에 오류가 있는지 없는지 검사할 수 있는 함수이다.
+    // 16바이트의 값을 string으로 반환한다.
+    public static string CheckSum(string data)
+    {
+        string hash;
+        using (System.Security.Cryptography.MD5 md5 = System.Security.Cryptography.MD5.Create())
+        {
+            hash = BitConverter.ToString(
+              md5.ComputeHash(Encoding.UTF8.GetBytes(data.ToString()))
+            ).Replace("-", String.Empty);
+        }
+        return hash;
+    }
+
+    // 소수인지 아닌지 판단
+    private static bool isPrime(int n)
+    {
+        if (n < 2) return false;
+
+        int i, num = (int)Math.Sqrt(n) + 1;
+
+        for (i = 2; i < num; i++)
+        {
+            if (n % i == 0) return false;
+        }
+        return true;
+    }
+
+    // pi(x)들을 계산
+    public static void Cal_PI(int start, int end, ref int[] result)
+    {
+        int i, cnt = 0;
+        for (i = start; i <= end; i++)
+        {
+            // 소수이면 카운트 증가, 아니면 이전의 카운트값을 배열에 저장
+            result[i] = isPrime(i) ? ++cnt : cnt;
+        }
+    }
+}
+
 static class TSocket
 {
-    public static char sSTX() { return Convert.ToChar(0x02); }
-    public static char sETX() { return Convert.ToChar(0x03); }
-    public static char sEOT() { return Convert.ToChar(0x04); }
-    public static char sENQ() { return Convert.ToChar(0x05); }
-    public static char sACK() { return Convert.ToChar(0x06); }
-    public static char sNAK() { return Convert.ToChar(0x15); }
-    public static char sCR() { return Convert.ToChar(13); }
-    public static char sLF() { return Convert.ToChar(10); }
+    public static string sSTX() { return Convert.ToChar(0x02).ToString(); }
+    public static string sETX() { return Convert.ToChar(0x03).ToString(); }
+    public static string sEOT() { return Convert.ToChar(0x04).ToString(); }
+    public static string sENQ() { return Convert.ToChar(0x05).ToString(); }
+    public static string sACK() { return Convert.ToChar(0x06).ToString(); }
+    public static string sNAK() { return Convert.ToChar(0x15).ToString(); }
+    public static string sCR() { return Convert.ToChar(13).ToString(); }
+    public static string sLF() { return Convert.ToChar(10).ToString(); }
     public static string sCRLF() { return "\r\n"; }
 
     public static string HostName()

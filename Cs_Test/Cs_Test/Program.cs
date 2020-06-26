@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
@@ -10,33 +11,37 @@ namespace Cs_Test
 {
     class Program
     {
-        
+        const int max = 30000000;
         static void Main(string[] args)
         {
-            EPI(10, 20);
+            string A = "1:44,23:555";
+            string[] B = A.Split(',');
+            string[][] C = Array.ConvertAll<string, string[]>(B, e => e.Split(':'));
+            int[] aa = new int[] { 1, 2, 3, 4, 5 };
+            int[] bb = new int[] { 1, 2, 3, 4, 5 };
+            EPI();
             ReadKey();
         }
-        static void EPI(int start, int end)
+        static public void EPI()
         {
-            bool[] prime = new bool[end + 1];
+            DateTime start = DateTime.Now;
+            bool[] prime = new bool[max + 1];
             int i, j, pcnt = 0;
-            bool flag;
-
-            for (i = start; i <= end; i++)
+            for (i = 2; i <= max; i++)
             {
-                flag = true;
-                for(j = 2; j <= Math.Sqrt(i) + 1; j++)
+                if (prime[i] == false)
                 {
-                    if (i % j == 0)
+                    pcnt++;
+                    for (j = i * 2; j <= max; j += i)
                     {
-                        flag = false;
-                        break;
+                        prime[j] = true;
                     }
                 }
-                if (flag) WriteLine("{0}는 소수이다.", i);
-                else WriteLine("{0}는 소수가 아니다.", i);
+                if ((i - 2) % 37500 == 0) WriteLine("{0}:{1}", i, pcnt);
+
             }
-            
+            WriteLine("{0}:{1}", i - 1, pcnt);
+
         }
     }
 }

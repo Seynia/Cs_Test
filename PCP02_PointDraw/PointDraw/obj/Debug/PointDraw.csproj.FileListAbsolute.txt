@@ -8,3 +8,13 @@ C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PointD
 C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PointDraw\PointDraw\obj\Debug\PointDraw.csproj.CoreCompileInputs.cache
 C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PointDraw\PointDraw\obj\Debug\PointDraw.exe
 C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PointDraw\PointDraw\obj\Debug\PointDraw.pdb
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP02_PointDraw\PointDraw\bin\Debug\PointDraw.exe.config
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP02_PointDraw\PointDraw\bin\Debug\PointDraw.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP02_PointDraw\PointDraw\bin\Debug\PointDraw.pdb
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP02_PointDraw\PointDraw\obj\Debug\PointDraw.csprojAssemblyReference.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP02_PointDraw\PointDraw\obj\Debug\PointDraw.Form1.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP02_PointDraw\PointDraw\obj\Debug\PointDraw.Properties.Resources.resources
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP02_PointDraw\PointDraw\obj\Debug\PointDraw.csproj.GenerateResource.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP02_PointDraw\PointDraw\obj\Debug\PointDraw.csproj.CoreCompileInputs.cache
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP02_PointDraw\PointDraw\obj\Debug\PointDraw.exe
+C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Cs_Project\PCP02_PointDraw\PointDraw\obj\Debug\PointDraw.pdb

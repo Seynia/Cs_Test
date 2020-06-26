@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 using System.Net;
 using System.Net.Sockets;
 using System.Threading;
+using PCPP_DC_Graph_Client_;
+using System.Runtime.CompilerServices;
+using System.Drawing;
 
 enum csConnStatus
 {
@@ -15,16 +18,52 @@ enum csConnStatus
     Connected
 };
 
-static class TSocket
+static class Util
 {
-    public static char sSTX() { return Convert.ToChar(0x02); }
-    public static char sETX() { return Convert.ToChar(0x03); }
-    public static char sEOT() { return Convert.ToChar(0x04); }
-    public static char sENQ() { return Convert.ToChar(0x05); }
-    public static char sACK() { return Convert.ToChar(0x06); }
-    public static char sNAK() { return Convert.ToChar(0x15); }
-    public static char sCR() { return Convert.ToChar(13); }
-    public static char sLF() { return Convert.ToChar(10); }
+    // argument를 기준으로 현재 시간과의 차이를 계산한다.
+    public static double Tsec(DateTime sTime)
+    {
+        return DateTime.Now.Subtract(sTime).Ticks / 1e7;
+    }
+
+    // CheckSum을 계산하여 데이터에 오류가 있는지 없는지 검사할 수 있는 함수이다.
+    // 16바이트의 값을 string으로 반환한다.
+    public static string CheckSum(string data)
+    {
+        string hash;
+        using (System.Security.Cryptography.MD5 md5 = System.Security.Cryptography.MD5.Create())
+        {
+            hash = BitConverter.ToString(
+              md5.ComputeHash(Encoding.UTF8.GetBytes(data.ToString()))
+            ).Replace("-", String.Empty);
+        }
+        return hash;
+    }
+
+    // 폼 이미지를 캡쳐하는 함수이다. 데이터 자동 수집을 위해 작성하였다.
+    // fname은 파일이름과 확장자를 포함한 string 형식이다.
+    public static void ScreenCapture(Form1 form, string fname)
+    {
+        Size size = new Size(form.Width - 16, form.Height - 13);
+        Bitmap bmap = new Bitmap(size.Width, size.Height);
+        Graphics grp = Graphics.FromImage(bmap);
+        string deskAddr = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+        grp.CopyFromScreen(new Point(form.Bounds.X + 8, form.Bounds.Y + 5), new Point(0, 0), size);
+        bmap.Save(deskAddr + "\\" + fname);
+        bmap.Dispose();
+    }
+}
+
+static class TSocket // string을 반환하도록 모두 수정하였다.
+{
+    public static string sSTX() { return Convert.ToChar(0x02).ToString(); }
+    public static string sETX() { return Convert.ToChar(0x03).ToString(); }
+    public static string sEOT() { return Convert.ToChar(0x04).ToString(); }
+    public static string sENQ() { return Convert.ToChar(0x05).ToString(); }
+    public static string sACK() { return Convert.ToChar(0x06).ToString(); }
+    public static string sNAK() { return Convert.ToChar(0x15).ToString(); }
+    public static string sCR() { return Convert.ToChar(13).ToString(); }
+    public static string sLF() { return Convert.ToChar(10).ToString(); }
     public static string sCRLF() { return "\r\n"; }
 
     public static string HostName()
